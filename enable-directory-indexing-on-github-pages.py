@@ -38,3 +38,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# original source: https://stackoverflow.com/questions/39048654/how-to-enable-directory-indexing-on-github-pages
