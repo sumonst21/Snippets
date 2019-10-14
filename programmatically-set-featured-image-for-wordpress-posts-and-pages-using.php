@@ -65,4 +65,6 @@ if(file_exists($IMGFileName)){
 
 echo $message;
 
+// src: https://www.kickstartcommerce.com/programmatically-set-featured-image-for-wordpress-posts-and-pages-using-php.html
+
 ?>
